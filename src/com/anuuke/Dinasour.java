@@ -8,5 +8,6 @@ public class Dinasour {
 
         System.out.println("I'm a dinasour!!!");
         System.out.println("GRRRRR!!");
+        System.out.println("I have teeth!");
     }
 }
